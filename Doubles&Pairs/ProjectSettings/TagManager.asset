@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SRed
+  - CRed
+  - CBlue
+  - SBlue
+  - SGreen
+  - CGreen
+  - Blue
+  - Red
+  - Green
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: View
+    uniqueID: 838733377
+    locked: 0
+  - name: Chara
+    uniqueID: 2695467325
+    locked: 0
+  - name: UnderBord
+    uniqueID: 1618885271
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 503262879
+    locked: 0
